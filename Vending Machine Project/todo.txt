@@ -1,0 +1,23 @@
+
+
+
+
+Done
+//Add current money provided when they select option 2 purchase, should be 0 to start
+
+//Print item name and cost when dispensing
+
+//Show message if product slot chosen doesn't exist
+
+//entering d4 in purchase menu crashes
+
+//Show when an item is sold out  (should show when selecting 1 from main menu)
+
+/**Show message if chosen product stock is 0, say it's sold out (In ours code, out of stock items disappears)
+
+//Bogo every 2 items, takes a dollar off the second item
+
+//Tests
+
+//   current balance when start purchase menu
+
